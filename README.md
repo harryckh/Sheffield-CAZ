@@ -1,7 +1,7 @@
 # Sheffield CAZ Analysis
 
 1. This repository contains the code and data used in the paper 
-	"Assessing the Impact of Sheffield's Clean Air Zone on Air Quality and Traffic Volume".
+	"Exploring the Effects of Sheffield's Clean Air Zone on Air Quality and Traffic Volume".
 2. This code is written in Python.
 
 
